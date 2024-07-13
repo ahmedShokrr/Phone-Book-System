@@ -22,7 +22,7 @@ This project is part of the Structured Programming Course (CSE 014) at Al Alamei
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/phone-book-system.git
+    git clone https://github.com/ahmedShokrr/phone-book-system.git
     ```
 2. **Navigate to the project directory**:
     ```bash
